@@ -1,7 +1,7 @@
 # %% [markdown]
 # # Python Core — Dictionaries
 #
-# ## Section 1 — Complete Lesson
+# ## Section 1 —
 #
 # A dictionary stores data as key-value pairs.
 #
