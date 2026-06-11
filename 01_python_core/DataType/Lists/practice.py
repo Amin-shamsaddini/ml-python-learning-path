@@ -44,7 +44,7 @@ print(f"Invalid readings: {invalid_count}")
 print(f"Average: {average_reading:.2f}")
 print(f"Min: {min_reading}")
 print(f"Max: {max_reading}")
-
+print(f"Max: {max_reading}")
 
 
 
