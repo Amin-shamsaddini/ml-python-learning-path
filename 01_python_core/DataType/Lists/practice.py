@@ -2,7 +2,6 @@
 # %% [markdown]
 # ## Exercise 1 — Clean Sensor Data for ML
 #
-# You have raw sensor readings.
 #
 # Invalid values:
 #
